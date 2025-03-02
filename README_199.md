@@ -56,6 +56,4 @@ How to Run the Code:
 3. Run all the cells in order.
 4. Check the model accuracy, loss values, and confusion matrix at the end.
 
-Submission Details:
-- GitHub Repository: `<your-github-repo-link>`
-- Google Form Submission Link: [Submit Here](https://forms.gle/Xdn6qYDDQpGg77Aw5)
+
